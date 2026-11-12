@@ -1,0 +1,4 @@
+interface:
+  display_name: "EDA Paper Figure"
+  short_description: "按研究机制组织 EDA 论文图，核对对象、层级、箭头、单栏排版与系列风格"
+  default_prompt: "使用 $eda-paper-figure，依据论文与最新源图检查内容和工作机制，区分对象与视觉层级，采用适合本图的布局，统一字体色调，按所需格式交付并核验。"
